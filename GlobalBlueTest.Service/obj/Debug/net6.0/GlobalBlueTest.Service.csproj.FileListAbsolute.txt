@@ -3,11 +3,6 @@ D:\Test\Global Blue\Test.Service\obj\Debug\net6.0\GlobalBlueTest.Service.Generat
 D:\Test\Global Blue\Test.Service\obj\Debug\net6.0\GlobalBlueTest.Service.AssemblyInfoInputs.cache
 D:\Test\Global Blue\Test.Service\obj\Debug\net6.0\GlobalBlueTest.Service.AssemblyInfo.cs
 D:\Test\Global Blue\Test.Service\obj\Debug\net6.0\GlobalBlueTest.Service.csproj.CoreCompileInputs.cache
-D:\Test\Global Blue\GlobalBlueTest.Service\obj\Debug\net6.0\GlobalBlueTest.Service.csproj.AssemblyReference.cache
-D:\Test\Global Blue\GlobalBlueTest.Service\obj\Debug\net6.0\GlobalBlueTest.Service.GeneratedMSBuildEditorConfig.editorconfig
-D:\Test\Global Blue\GlobalBlueTest.Service\obj\Debug\net6.0\GlobalBlueTest.Service.AssemblyInfoInputs.cache
-D:\Test\Global Blue\GlobalBlueTest.Service\obj\Debug\net6.0\GlobalBlueTest.Service.AssemblyInfo.cs
-D:\Test\Global Blue\GlobalBlueTest.Service\obj\Debug\net6.0\GlobalBlueTest.Service.csproj.CoreCompileInputs.cache
 D:\Test\Global Blue\GlobalBlueTest.Service\bin\Debug\net6.0\GlobalBlueTest.Service.deps.json
 D:\Test\Global Blue\GlobalBlueTest.Service\bin\Debug\net6.0\GlobalBlueTest.Service.dll
 D:\Test\Global Blue\GlobalBlueTest.Service\bin\Debug\net6.0\GlobalBlueTest.Service.pdb
@@ -15,6 +10,11 @@ D:\Test\Global Blue\GlobalBlueTest.Service\bin\Debug\net6.0\GlobalBlueTest.Commo
 D:\Test\Global Blue\GlobalBlueTest.Service\bin\Debug\net6.0\GlobalBlueTest.Repository.dll
 D:\Test\Global Blue\GlobalBlueTest.Service\bin\Debug\net6.0\GlobalBlueTest.Common.pdb
 D:\Test\Global Blue\GlobalBlueTest.Service\bin\Debug\net6.0\GlobalBlueTest.Repository.pdb
+D:\Test\Global Blue\GlobalBlueTest.Service\obj\Debug\net6.0\GlobalBlueTest.Service.csproj.AssemblyReference.cache
+D:\Test\Global Blue\GlobalBlueTest.Service\obj\Debug\net6.0\GlobalBlueTest.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Global Blue\GlobalBlueTest.Service\obj\Debug\net6.0\GlobalBlueTest.Service.AssemblyInfoInputs.cache
+D:\Test\Global Blue\GlobalBlueTest.Service\obj\Debug\net6.0\GlobalBlueTest.Service.AssemblyInfo.cs
+D:\Test\Global Blue\GlobalBlueTest.Service\obj\Debug\net6.0\GlobalBlueTest.Service.csproj.CoreCompileInputs.cache
 D:\Test\Global Blue\GlobalBlueTest.Service\obj\Debug\net6.0\GlobalBlueTest.Service.csproj.CopyComplete
 D:\Test\Global Blue\GlobalBlueTest.Service\obj\Debug\net6.0\GlobalBlueTest.Service.dll
 D:\Test\Global Blue\GlobalBlueTest.Service\obj\Debug\net6.0\refint\GlobalBlueTest.Service.dll
