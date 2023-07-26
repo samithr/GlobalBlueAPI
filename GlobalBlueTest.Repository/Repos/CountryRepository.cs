@@ -9,7 +9,7 @@ namespace GlobalBlueTest.Repository.Repos
         public async Task<IEnumerable<CountryVatRateDto>> GetCountryVatRates()
         {
             var response = new List<CountryVatRateDto>();
-            var austriaVatRates = new List<int>() { 5, 10, 15 };
+            var austriaVatRates = new List<int>() { 5, 10, 13, 20 };
             var austria = new CountryVatRateDto("Austria");
             austria.VatRates = austriaVatRates;
             response.Add(austria);
