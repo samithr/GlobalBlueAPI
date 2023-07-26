@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KbxUXkyMdI2gmZMuyd4DokBCDkQXvT6vOPvw9wZJEkg=",
+  "Source": "GlobalBlueTest.API",
+  "BasePath": "_content/GlobalBlueTest.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

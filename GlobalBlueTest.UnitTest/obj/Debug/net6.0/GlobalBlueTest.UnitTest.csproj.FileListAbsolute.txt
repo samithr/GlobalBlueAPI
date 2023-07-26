@@ -1,0 +1,6 @@
+D:\Test\Global Blue\GlobalBlueTest.UnitTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Test\Global Blue\GlobalBlueTest.UnitTest\obj\Debug\net6.0\GlobalBlueTest.UnitTest.csproj.AssemblyReference.cache
+D:\Test\Global Blue\GlobalBlueTest.UnitTest\obj\Debug\net6.0\GlobalBlueTest.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Global Blue\GlobalBlueTest.UnitTest\obj\Debug\net6.0\GlobalBlueTest.UnitTest.AssemblyInfoInputs.cache
+D:\Test\Global Blue\GlobalBlueTest.UnitTest\obj\Debug\net6.0\GlobalBlueTest.UnitTest.AssemblyInfo.cs
+D:\Test\Global Blue\GlobalBlueTest.UnitTest\obj\Debug\net6.0\GlobalBlueTest.UnitTest.csproj.CoreCompileInputs.cache
